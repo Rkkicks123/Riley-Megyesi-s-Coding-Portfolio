@@ -1,0 +1,51 @@
+.showcase {
+  /*background-image: url('images/image00.jpg');*/
+  background-color: lightgoldenrodyellow;
+  background-position: center;
+  background-repeat: none;
+  font-size: 87px;
+  font-display: inline;
+  text-align:center;
+  display:block;
+}
+#intro {
+ background-color: orange;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  /*border: 5px #e6e6e6 solid;*/
+}
+
+#intro2 {
+ background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px lightblue solid;
+}
+
+#navbar {
+  background-color: #333;
+  color: white;
+}
+
+#navbar ul {
+  padding: 0;
+  list-style: none;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+  padding-right: 15px;
+}
+html{
+  /*background-image: url('images/RedAndBlue.jpg'); */
+  background-color: orange;
+}
+
+#list{
+  font-size: 24px;
+}
