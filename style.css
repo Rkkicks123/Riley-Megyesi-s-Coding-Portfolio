@@ -1,6 +1,6 @@
 .showcase {
   /*background-image: url('images/image00.jpg');*/
-  background-color: lightgoldenrodyellow;
+  background-color: #D4A017;
   background-position: center;
   background-repeat: none;
   font-size: 87px;
@@ -9,10 +9,11 @@
   display:block;
 }
 #intro {
- background-color: orange;
+ background-color: #C0C0C0;
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
   /*border: 5px #e6e6e6 solid;*/
+  margin: 20px;
 }
 
 #intro2 {
@@ -27,7 +28,7 @@
 }
 
 #navbar ul {
-  padding: 0;
+  padding: 5px;
   list-style: none;
 }
 
@@ -39,11 +40,11 @@
   color: white;
   text-decoration: none;
   font-size: 23px;
-  padding-right: 15px;
+  padding-right: 25px;
 }
 html{
   /*background-image: url('images/RedAndBlue.jpg'); */
-  background-color: orange;
+  background-color: #C0C0C0;
 }
 
 #list{
@@ -53,4 +54,9 @@ html{
 
 #Name {
   text-align: center;
+}
+
+
+*{
+  margin: 0%;
 }
